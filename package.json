@@ -1,0 +1,22 @@
+{
+  "name": "@muhammadumer495/countertimer09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {"countertimer09":"index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.7"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "inquirer": "^9.2.11"
+  }
+}
